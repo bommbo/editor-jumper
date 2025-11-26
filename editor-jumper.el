@@ -2,11 +2,11 @@
 
 ;; Copyright (C) 2025
 
-;; Author: Your Name
-;; Version: 1.0.0
-;; Package-Requires: ((emacs "25.1"))
+;; Author: bommbo
+;; Version: 0.1
+;; Package-Requires: ((emacs "27.1"))
 ;; Keywords: tools, convenience
-;; URL: https://github.com/yourusername/editor-jumper
+;; URL: https://github.com/bommbo/editor-jumper
 
 ;;; Commentary:
 
